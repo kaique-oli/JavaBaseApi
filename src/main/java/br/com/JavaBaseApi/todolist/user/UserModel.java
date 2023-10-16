@@ -1,4 +1,4 @@
-package br.com.ytodo.todolist.user;
+package br.com.JavaBaseApi.todolist.user;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Column;
@@ -23,5 +23,8 @@ public class UserModel {
     @CreationTimestamp
     private LocalDateTime createdAt;
     private LocalDateTime updatedAt = null;
+    private LocalDateTime deleteddAt = null;
+    private UUID deletingUser;
+    private UUID updaterUser;
     private boolean deleted = false;
 }

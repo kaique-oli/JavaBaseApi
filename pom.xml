@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.ytodo</groupId>
-	<artifactId>todolist</artifactId>
+	<artifactId>JavaBaseApi</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>todolist</name>
 	<description>Gerenciador de tarefas</description>

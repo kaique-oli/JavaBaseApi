@@ -1,4 +1,4 @@
-package br.com.ytodo.todolist.user;
+package br.com.JavaBaseApi.todolist.user;
 
 import at.favre.lib.crypto.bcrypt.BCrypt;
 import org.springframework.beans.factory.annotation.Autowired;

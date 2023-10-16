@@ -1,4 +1,4 @@
-package br.com.ytodo.todolist.user;
+package br.com.JavaBaseApi.todolist.user;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
